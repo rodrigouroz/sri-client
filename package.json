@@ -18,7 +18,7 @@
   "license": "private",
   "dependencies": {
     "jsonschema": "1.2.2",
-    "lodash": "4.17.15",
+    "lodash": "4.17.21",
     "node-fetch": "2.6.1",
     "p-debounce": "1.0.0"
   },
